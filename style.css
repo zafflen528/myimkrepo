@@ -1,0 +1,60 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Avenir Next";
+  
+}
+
+
+li {
+  list-style: none;
+}
+
+/* Ketik code Anda dibawah */
+
+html { 
+  background: url("https://www.teahub.io/photos/full/68-689645_photo-wallpaper-the-sky-girl-clouds-fate-grand.jpg" ) no-repeat center center fixed; 
+  background-size: cover;
+}
+.header{
+  background-color:#26d0c9;
+  height:90px;
+}
+.konz{
+  float:left;
+  font-size:36px;
+  color:white;
+  padding:20px;
+  Margin-left:20px;
+}
+.gambar{
+  float:left;
+  padding: 20px;
+  margin: 15px;
+}
+.rin{
+  float:left;
+  padding: 20px;
+  margin: 15px;
+  width: 266px;
+  height: 374px;
+}
+.rin1{
+
+  width: 266px;
+  height: 374px;
+}
+
+.menu-list li{
+  float:left;
+   color:white;
+   padding:33px 20px;
+}
+.satulagi{
+ position: relative;
+ width: 100%;
+height: 100vh;
+}
